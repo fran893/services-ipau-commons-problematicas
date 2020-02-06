@@ -1,0 +1,7 @@
+{
+  "name": "services-ipau-commons-location",
+  "description": "Libreria commons con entities",
+  "repository": "https://github.com/fran893/services-ipau-commons-problematicas",
+  "image": "heroku/java",
+  "addons": [ "heroku-mysql" ]
+}
